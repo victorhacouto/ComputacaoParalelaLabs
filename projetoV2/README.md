@@ -13,3 +13,7 @@ Execução para 30.000 digitos
 ![image](https://github.com/victorhacouto/ComputacaoParalelaLabs/assets/25206585/d525ff11-341a-45c9-8b63-4c2c94af17e8)
 ![image](https://github.com/victorhacouto/ComputacaoParalelaLabs/assets/25206585/791f23cc-d014-41a6-9e74-8efcc20d43f7)
 
+Média de tempo de execução Serial: 13,627 segundos
+Média de tempo de execução Paralelo: 11,4245 segundos
+
+SpeedUp: 1,1612762046479 segundos.
