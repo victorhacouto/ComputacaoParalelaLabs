@@ -18,3 +18,19 @@ Média de tempo de execução Serial: 13,627 segundos
 Média de tempo de execução Paralelo: 11,4245 segundos
 
 SpeedUp: 1,1612762046479 segundos.
+
+Respostas do exercício 4 Decomposição de Tarefas:
+Questão 1:
+![image](https://github.com/victorhacouto/ComputacaoParalelaLabs/assets/74799704/212339af-ab6f-4efc-85f1-faf80c4e6017)
+As tarefas do caminho crítico são T2, T5 e T6.
+
+Questão 2:
+O limite inferior é 4, considerando que cada tarefa requerirá uma unidade de tempo.
+
+Questão 3:
+
+Questão 4:
+Considerando que cada tarefa terá uma quantidade trabalho igual, o grau máximo de concorrência é 4.
+
+Questão 5:
+O paralelismo médio é 6/4, visto que o caminho crítico é 4 e a quantidade total de trabalho das tarefas é 6, o que resulta num paralelismo médio de 1.5.
