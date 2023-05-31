@@ -17,3 +17,9 @@ Tempo para a versão Paralela com 125000 digitos = 6m25.751s
 ![image](https://github.com/victorhacouto/ComputacaoParalelaLabs/assets/25206585/39611ecb-77ec-4a97-8a69-f48b781284a2)
 
 Speed Up: 1,7806028276423050063044246033966
+
+
+Links de apoio:
+https://tildesites.bowdoin.edu/~ltoma/teaching/cs3225-GIS/fall17/Lectures/openmp.html#:~:text=A%20section%20of%20code%20that,section%20of%20the%20code%20independently.
+https://home.cs.colorado.edu/~srirams/courses/csci2824-spr14/gmpTutorial.html#:~:text=GMP%20allows%20us%20to%20use,precision%20as%20and%20when%20needed.
+https://learn.microsoft.com/pt-br/cpp/parallel/openmp/reference/openmp-directives?view=msvc-170
